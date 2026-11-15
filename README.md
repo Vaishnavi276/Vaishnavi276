@@ -178,7 +178,11 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vaishnavi276/Vaishnavi276/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/Vaishnavi276/Vaishnavi276/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
