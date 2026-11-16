@@ -160,18 +160,27 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi276&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi276&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vaishnavi276&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi276&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
 </p>
 
 <p align="center">
- 
-<img src="https://streak-stats.demolab.com?user=Vaishnavi276&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="70%" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=Vaishnavi276&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata"
+    width="70%"
+  />
 </p>
+
 
 ---
 
