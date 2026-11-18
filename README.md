@@ -172,8 +172,9 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Vaishnavi276&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata"
+    src="https://streak-stats.demolab.com/?user=Vaishnavi276&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&v=2"
     width="70%"
+    alt="Vaishnavi's GitHub Streak"
   />
 </p>
 
